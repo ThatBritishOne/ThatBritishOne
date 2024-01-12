@@ -1,6 +1,3 @@
 - 👋 Hi, I’m Jordan
-
-<!---
-ThatBritishOne/ThatBritishOne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💂 Developer from the United Kingdom
+- Discord: thatbritishone | Jordan#0001
